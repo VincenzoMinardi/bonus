@@ -1,3 +1,18 @@
+*{
+    margin: 0;
+
+}
+
+main{
+    padding: 10px 70px;
+
+}
+footer{
+    padding: 10px 70px;
+}
+
+
+
 .logo{
     background-image: url(../img/pattern.png);
     width: 100%;
